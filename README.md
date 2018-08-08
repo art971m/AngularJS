@@ -1,2 +1,3 @@
 # AngularJS
 #
+I joined development 
